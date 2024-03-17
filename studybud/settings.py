@@ -82,7 +82,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'studybud.wsgi.application'
+WSGI_APPLICATION = 'studybud.wsgi.app'
 
 
 # Database
